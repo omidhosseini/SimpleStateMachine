@@ -4,10 +4,17 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <RootNamespace>StateMachine.Handler</RootNamespace>
 
-    <PackageId>StateMachineHandler</PackageId>
+    <PackageId>OmidHosseini.StateMachineHandler</PackageId>
     <Version>1.0.0</Version>
     <Authors>Omid Hosseini</Authors>
-    
+    <Company>Omid Hosseini</Company>
+    <Description>Simple Library for statemachine</Description>
+    <PackageLicenceExpresssion>MIT</PackageLicenceExpresssion>
+    <PackageTags>StateMachine, StateMachineHandler</PackageTags>
+    <RepositoryUrl>https://github.com/omidhosseini/SimpleStateMachine</RepositoryUrl>
+
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+
   </PropertyGroup>
   
   
