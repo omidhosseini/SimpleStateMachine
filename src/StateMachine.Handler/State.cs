@@ -4,7 +4,7 @@ using System.Linq;
 using System.Net;
 using StateMachine.Handler;
 
-namespace StateMashine.Handler
+namespace StateMachine.Handler
 {
     public class State<TEnum> : IState<TEnum>
         where TEnum : Enum

@@ -1,4 +1,4 @@
-namespace StateMashine.Handler
+namespace StateMachine.Handler
 {
     public class StateMachineModel<TEnum>
     {

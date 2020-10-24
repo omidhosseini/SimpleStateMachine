@@ -2,8 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using Microsoft.Extensions.DependencyInjection;
-using StateMachine.Handler;
-using StateMashine.Handler;
+using StateMachine.Handler; 
 
 namespace ConsoleApp1
 {
