@@ -1,5 +1,8 @@
 # SimpleStateMachine
-
+- Install package
+```csharp
+dotnet add package StateMachineHandler --version 1.0.0
+```
 - Setup your rules
 
 ```csharp
